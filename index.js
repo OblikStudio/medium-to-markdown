@@ -1,5 +1,3 @@
-'use strict';
-
 module.exports = {
-  convertFromUrl: require('./lib/convertFromUrl')
+  download: require('./lib/convertFromUrl')
 }
